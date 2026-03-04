@@ -9,8 +9,8 @@ Projeto de Machine Learning para predição de churn (abandono) de clientes, uti
 Desenvolver um modelo capaz de identificar clientes com maior probabilidade de churn, permitindo ações proativas de retenção.
 
 ## 👥 Equipe
-Matheus Felipe Soares Silva
-Rhuan Rassilam Souza Santos
+- Matheus Felipe Soares Silva
+- Rhuan Rassilam Souza Santos
 
 ## 🛠️ Tecnologias
 - Python 3.8+
