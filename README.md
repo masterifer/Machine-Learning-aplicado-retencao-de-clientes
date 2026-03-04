@@ -1,5 +1,3 @@
-# Machine-Learning-aplicado-retencao-de-clientes
-
 # Machine Learning - Retenção de Clientes (Churn Prediction)
 
 ## 📊 Descrição do Projeto
